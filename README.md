@@ -1,2 +1,2 @@
-# face-recognition-api-grpc
-This backend is built using gRPC API.
+FACE RECOGNITION - API with gRPC
+--------------------- 

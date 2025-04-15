@@ -1,0 +1,32 @@
+{
+  "name": "face-recognition-api",
+  "version": "1.0.0",
+  "description": "FACE RECOGNITION - API ---------------------",
+  "main": "script1.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BendibHafed/face-recognition-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BendibHafed/face-recognition-api/issues"
+  },
+  "homepage": "https://github.com/BendibHafed/face-recognition-api#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "clarifai": "^2.9.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "knex": "^3.1.0",
+    "pg": "^8.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
